@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Policy Holder" section_id="445eb651db5223000780e04a489619ba" sys_domain="global" table="x_248743_claims_policy" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>policy_holder_last_name_kana</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 03:32:45</sys_created_on>
+            <sys_id>23331311db9223000780e04a48961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Policy Holder" display_value="Policy Holder" name="x_248743_claims_policy" sys_domain="global" view="Default view">445eb651db5223000780e04a489619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 03:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>policy_holder_last_name_kanji</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 03:32:45</sys_created_on>
+            <sys_id>a3331311db9223000780e04a48961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Policy Holder" display_value="Policy Holder" name="x_248743_claims_policy" sys_domain="global" view="Default view">445eb651db5223000780e04a489619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 03:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>insured_date_of_birth</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 03:32:45</sys_created_on>
+            <sys_id>27331311db9223000780e04a48961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Policy Holder" display_value="Policy Holder" name="x_248743_claims_policy" sys_domain="global" view="Default view">445eb651db5223000780e04a489619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 03:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>policy_holder_first_name_kanji</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 03:32:45</sys_created_on>
+            <sys_id>a7331311db9223000780e04a48961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Policy Holder" display_value="Policy Holder" name="x_248743_claims_policy" sys_domain="global" view="Default view">445eb651db5223000780e04a489619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 03:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>policy_holder_first_name_kana</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 03:32:45</sys_created_on>
+            <sys_id>2b331311db9223000780e04a48961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Policy Holder" display_value="Policy Holder" name="x_248743_claims_policy" sys_domain="global" view="Default view">445eb651db5223000780e04a489619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 03:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sex</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 03:32:45</sys_created_on>
+            <sys_id>ab331311db9223000780e04a48961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Policy Holder" display_value="Policy Holder" name="x_248743_claims_policy" sys_domain="global" view="Default view">445eb651db5223000780e04a489619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 03:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>age_at_contract</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 03:32:45</sys_created_on>
+            <sys_id>2f331311db9223000780e04a48961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Policy Holder" display_value="Policy Holder" name="x_248743_claims_policy" sys_domain="global" view="Default view">445eb651db5223000780e04a489619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 03:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>relationship</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 03:32:45</sys_created_on>
+            <sys_id>af331311db9223000780e04a48961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Policy Holder" display_value="Policy Holder" name="x_248743_claims_policy" sys_domain="global" view="Default view">445eb651db5223000780e04a489619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 03:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zip_code</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 03:32:45</sys_created_on>
+            <sys_id>23331311db9223000780e04a48961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Policy Holder" display_value="Policy Holder" name="x_248743_claims_policy" sys_domain="global" view="Default view">445eb651db5223000780e04a489619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 03:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address_1_kana</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 03:32:45</sys_created_on>
+            <sys_id>a3331311db9223000780e04a48961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Policy Holder" display_value="Policy Holder" name="x_248743_claims_policy" sys_domain="global" view="Default view">445eb651db5223000780e04a489619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 03:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address_2_kana</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 03:32:45</sys_created_on>
+            <sys_id>27331311db9223000780e04a48961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Policy Holder" display_value="Policy Holder" name="x_248743_claims_policy" sys_domain="global" view="Default view">445eb651db5223000780e04a489619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 03:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address_1_kanji</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 03:32:45</sys_created_on>
+            <sys_id>a7331311db9223000780e04a48961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Policy Holder" display_value="Policy Holder" name="x_248743_claims_policy" sys_domain="global" view="Default view">445eb651db5223000780e04a489619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 03:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address_2_kanji</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 03:32:45</sys_created_on>
+            <sys_id>2b331311db9223000780e04a48961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Policy Holder" display_value="Policy Holder" name="x_248743_claims_policy" sys_domain="global" view="Default view">445eb651db5223000780e04a489619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 03:32:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Policy Holder</caption>
+            <header>false</header>
+            <name>x_248743_claims_policy</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 02:01:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>445eb651db5223000780e04a489619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Policy Holder</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Claims" source="x_248743_claims">92453d9fdb3923000780e04a48961901</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Claims">92453d9fdb3923000780e04a48961901</sys_scope>
+            <sys_update_name>sys_ui_section_445eb651db5223000780e04a489619ba</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 02:01:19</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

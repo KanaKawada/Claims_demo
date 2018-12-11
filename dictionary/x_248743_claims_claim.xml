@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Claim" max_length="40" name="x_248743_claims_claim" sizeclass="3" type="collection">
+        <element label="Attachment" max_length="40" name="attachment" type="file_attachment"/>
+        <element label="Policy No." max_length="40" name="policy_no" reference="x_248743_claims_policy" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+    </element>
+</database>

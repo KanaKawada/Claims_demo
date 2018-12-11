@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="pre_birth_special_sign" label="Pre-birth Special Sign" language="en" table="x_248743_claims_policy">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>pre_birth_special_sign</element>
+            <help/>
+            <hint/>
+            <label>Pre-birth Special Sign</label>
+            <language>en</language>
+            <name>x_248743_claims_policy</name>
+            <plural>Pre-birth Special Signs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 04:55:21</sys_created_on>
+            <sys_id>e926afd9db9223000780e04a4896196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Pre-birth Special Sign</sys_name>
+            <sys_package display_value="Claims" source="x_248743_claims">92453d9fdb3923000780e04a48961901</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Claims">92453d9fdb3923000780e04a48961901</sys_scope>
+            <sys_update_name>sys_documentation_x_248743_claims_policy_pre_birth_special_sign_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 04:55:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

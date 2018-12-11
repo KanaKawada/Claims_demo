@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Insured" section_id="80fa2e15db1223000780e04a489619c4" sys_domain="global" table="x_248743_claims_policy" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>insured_name_kana</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 04:35:48</sys_created_on>
+            <sys_id>83a1ef19db9223000780e04a489619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Insured" display_value="Insured" name="x_248743_claims_policy" sys_domain="global" view="Default view">80fa2e15db1223000780e04a489619c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 04:35:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>insured_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 04:35:48</sys_created_on>
+            <sys_id>07a1ef19db9223000780e04a489619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Insured" display_value="Insured" name="x_248743_claims_policy" sys_domain="global" view="Default view">80fa2e15db1223000780e04a489619c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 04:35:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>insured_date_of_birth</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 04:35:48</sys_created_on>
+            <sys_id>87a1ef19db9223000780e04a489619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Insured" display_value="Insured" name="x_248743_claims_policy" sys_domain="global" view="Default view">80fa2e15db1223000780e04a489619c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 04:35:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sex_insured</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 04:35:48</sys_created_on>
+            <sys_id>0ba1ef19db9223000780e04a489619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Insured" display_value="Insured" name="x_248743_claims_policy" sys_domain="global" view="Default view">80fa2e15db1223000780e04a489619c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 04:35:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>age_at_contract_insured</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 04:35:48</sys_created_on>
+            <sys_id>8ba1ef19db9223000780e04a489619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Insured" display_value="Insured" name="x_248743_claims_policy" sys_domain="global" view="Default view">80fa2e15db1223000780e04a489619c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 04:35:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zip_code_insured</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 04:35:48</sys_created_on>
+            <sys_id>0fa1ef19db9223000780e04a489619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Insured" display_value="Insured" name="x_248743_claims_policy" sys_domain="global" view="Default view">80fa2e15db1223000780e04a489619c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 04:35:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address_1_kana_insured</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 04:35:48</sys_created_on>
+            <sys_id>8fa1ef19db9223000780e04a489619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Insured" display_value="Insured" name="x_248743_claims_policy" sys_domain="global" view="Default view">80fa2e15db1223000780e04a489619c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 04:35:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address_2_kana_insured</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 04:35:48</sys_created_on>
+            <sys_id>03a1ef19db9223000780e04a489619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Insured" display_value="Insured" name="x_248743_claims_policy" sys_domain="global" view="Default view">80fa2e15db1223000780e04a489619c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 04:35:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address_1_kanji_insured</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 04:35:48</sys_created_on>
+            <sys_id>83a1ef19db9223000780e04a489619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Insured" display_value="Insured" name="x_248743_claims_policy" sys_domain="global" view="Default view">80fa2e15db1223000780e04a489619c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 04:35:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address_2_kanji_insured</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 04:35:48</sys_created_on>
+            <sys_id>07a1ef19db9223000780e04a489619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Insured" display_value="Insured" name="x_248743_claims_policy" sys_domain="global" view="Default view">80fa2e15db1223000780e04a489619c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 04:35:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone_number_insured</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 04:35:48</sys_created_on>
+            <sys_id>87a1ef19db9223000780e04a489619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Insured" display_value="Insured" name="x_248743_claims_policy" sys_domain="global" view="Default view">80fa2e15db1223000780e04a489619c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 04:35:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>occupation</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 04:35:48</sys_created_on>
+            <sys_id>0ba1ef19db9223000780e04a489619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Insured" display_value="Insured" name="x_248743_claims_policy" sys_domain="global" view="Default view">80fa2e15db1223000780e04a489619c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 04:35:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_address</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 04:35:48</sys_created_on>
+            <sys_id>8ba1ef19db9223000780e04a489619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Insured" display_value="Insured" name="x_248743_claims_policy" sys_domain="global" view="Default view">80fa2e15db1223000780e04a489619c4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 04:35:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Insured</caption>
+            <header>false</header>
+            <name>x_248743_claims_policy</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 00:36:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80fa2e15db1223000780e04a489619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Insured</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Claims" source="x_248743_claims">92453d9fdb3923000780e04a48961901</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Claims">92453d9fdb3923000780e04a48961901</sys_scope>
+            <sys_update_name>sys_ui_section_80fa2e15db1223000780e04a489619c4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 00:36:40</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

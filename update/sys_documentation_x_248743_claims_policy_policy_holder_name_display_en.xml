@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="policy_holder_name_display" label="Policy Holder Name" language="en" table="x_248743_claims_policy">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>policy_holder_name_display</element>
+            <help/>
+            <hint/>
+            <label>Policy Holder Name</label>
+            <language>en</language>
+            <name>x_248743_claims_policy</name>
+            <plural>Policy Holder Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 02:34:15</sys_created_on>
+            <sys_id>2ed54f95db5223000780e04a48961942</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Policy Holder Name</sys_name>
+            <sys_package display_value="Claims" source="x_248743_claims">92453d9fdb3923000780e04a48961901</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Claims">92453d9fdb3923000780e04a48961901</sys_scope>
+            <sys_update_name>sys_documentation_x_248743_claims_policy_policy_holder_name_display_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 02:36:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

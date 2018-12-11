@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Policy" max_length="40" name="x_248743_claims_policy" sizeclass="2" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Address 1 (Kana)" max_length="40" name="address_1_kana" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address 1 (Kana) Insured" max_length="40" name="address_1_kana_insured" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address 1 (Kanji)" max_length="40" name="address_1_kanji" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address 1 (Kanji) Insured" max_length="40" name="address_1_kanji_insured" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address 2 (Kana)" max_length="40" name="address_2_kana" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address 2 (Kana) Insured" max_length="40" name="address_2_kana_insured" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address 2 (Kanji)" max_length="40" name="address_2_kanji" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address 2 (Kanji) Insured" max_length="40" name="address_2_kanji_insured" type="string"/>
+        <element label="Agency Code" max_length="40" name="agency_code" type="string"/>
+        <element label="Agency Name" max_length="40" name="agency_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Agent Code" max_length="40" name="agent_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Agent Name" max_length="40" name="agent_name" type="string"/>
+        <element label="Age at Contract" max_length="15" name="age_at_contract" type="decimal"/>
+        <element label="Age at Contract Insured" max_length="15" name="age_at_contract_insured" type="decimal"/>
+        <element label="Annuity Payment Rider" max_length="40" name="annuity_payment_rider" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Assessment Type" max_length="40" name="assessment_type" type="string">
+            <choice/>
+        </element>
+        <element label="Auto Loan" max_length="40" name="auto_loan" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Business Address" max_length="40" name="business_address" type="string"/>
+        <element label="Claimant Date of Birth" max_length="40" name="claimant_date_of_birth" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Claimant Name(Kana)" max_length="40" name="claimant_name_kana" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Claimant Name(Kanji)" max_length="40" name="claimant_name_kanji" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Claimant Type" max_length="40" name="claimant_type" type="string">
+            <choice/>
+        </element>
+        <element label="Contract Date" max_length="40" name="contract_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Contract Date Rider" max_length="40" name="contract_date_rider" type="string">
+            <choice/>
+        </element>
+        <element label="Coverage Start Date" max_length="40" name="coverage_start_date" type="glide_date"/>
+        <element label="CRS" max_length="40" name="crs" type="boolean"/>
+        <element label="Declaration Date" max_length="40" name="declaration_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Department Code" max_length="40" name="department_code" type="string"/>
+        <element label="Deposit Date" max_length="40" name="deposit_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Designated Deputy Claimant Name" max_length="40" name="designated_deputy_claimant_name" type="string"/>
+        <element label="Doc. Processing Date" max_length="40" name="doc_processing_date" type="glide_date"/>
+        <element label="Doc. Received  Date" max_length="40" name="doc_received_date" type="glide_date"/>
+        <element label="Do not count toward results" max_length="40" name="do_not_count_toward_results" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee Code" max_length="40" name="employee_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Expected Date of Birth" max_length="40" name="expected_date_of_birth" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Group Code" max_length="40" name="group_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Guardian Name" max_length="40" name="guardian_name" type="string"/>
+        <element attributes="omit_sys_original=true" label="Insurance Premium Detail" max_length="20" name="insurance_premium_detail" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Insurance Premium Total" max_length="20" name="insurance_premium_total" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Insurance Term" max_length="40" name="insurance_term" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Insurance Type" max_length="40" name="insurance_type" type="string">
+            <choice/>
+        </element>
+        <element attributes="omit_sys_original=true" label="Insured Amount" max_length="20" name="insured_amount" type="currency"/>
+        <element label="Insured Date of Birth" max_length="40" name="insured_date_of_birth" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Insured Date of Birth" max_length="40" name="insured_date_of_birth_display" read_only="true" type="string"/>
+        <element label="Insured Name" max_length="40" name="insured_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Insured Name" max_length="40" name="insured_name_display" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Insured Name(kana)" max_length="40" name="insured_name_kana" type="string"/>
+        <element label="Living Needs" max_length="40" name="living_needs" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Main Policy" max_length="40" name="main_policy" type="string"/>
+        <element label="Major Shareholder 1 Date of Birth" max_length="40" name="major_shareholder_1_date_of_birth" type="glide_date"/>
+        <element label="Major Shareholder 1 Sex" max_length="40" name="major_shareholder_1_sex" type="glide_date"/>
+        <element label="Major Shareholder 2 Date of Birth" max_length="40" name="major_shareholder_2_date_of_birth" type="glide_date"/>
+        <element label="Major Shareholder 2 Sex" max_length="40" name="major_shareholder_2_sex" type="glide_date"/>
+        <element label="Major Shareholder 3 Date of Birth" max_length="40" name="major_shareholder_3_date_of_birth" type="glide_date"/>
+        <element label="Major Shareholder 3 Sex" max_length="40" name="major_shareholder_3_sex" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Major Shareholder Name 1(Kana)" max_length="40" name="major_shareholder_name_1_kana" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Major Shareholder Name 2(Kana)" max_length="40" name="major_shareholder_name_2_kana" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Major Shareholder Name 3(Kana)" max_length="40" name="major_shareholder_name_3_kana" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mother's Name (Special Rule)" max_length="40" name="mother_s_name_special_rule" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Occupation" max_length="40" name="occupation" type="string"/>
+        <element choice="1" label="Order Type" max_length="40" name="order_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Mail" value="1"/>
+                <element inactive_on_update="false" label="Web" value="2"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Payment Method" max_length="40" name="payment_method" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Payment Route" max_length="40" name="payment_route" type="string">
+            <choice/>
+        </element>
+        <element label="Percentage of Receiving" max_length="15" name="percentage_of_receiving" type="decimal"/>
+        <element label="Phone Number Insured" max_length="40" name="phone_number_insured" type="phone_number_e164"/>
+        <element label="Pledge set" max_length="40" name="pledge_set" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Policy Holder(First Name/Kana)" max_length="40" name="policy_holder_first_name_kana" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Policy Holder(First Name/Kanji)" max_length="40" name="policy_holder_first_name_kanji" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Policy Holder(Last Name/Kana)" max_length="40" name="policy_holder_last_name_kana" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Policy Holder(Last Name/Kanji)" max_length="40" name="policy_holder_last_name_kanji" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Policy Holder Name" max_length="40" name="policy_holder_name_display" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Preferred Risk Code" max_length="40" name="preferred_risk_code" type="string">
+            <choice/>
+        </element>
+        <element label="Prem. Exemption Rider" max_length="40" name="prem_exemption_rider" type="boolean"/>
+        <element attributes="omit_sys_original=true" label="prepaid Premium" max_length="20" name="prepaid_premium" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Prepay/Bulk" max_length="40" name="prepay_bulk" type="string">
+            <choice/>
+        </element>
+        <element label="Pre-birth Special Sign" max_length="40" name="pre_birth_special_sign" type="boolean"/>
+        <element label="Product name" max_length="40" name="product_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Relationship" max_length="40" name="relationship" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Relationship Claimant" max_length="40" name="relationship_claimant" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Relationship deputy claimant" max_length="40" name="relationship_deputy_claimant" type="string"/>
+        <element label="Return Policy cert." max_length="40" name="return_policy_cert" type="boolean"/>
+        <element label="Sales Office Code" max_length="40" name="sales_office_code" type="string"/>
+        <element label="Sales Office Name" max_length="40" name="sales_office_name" type="string"/>
+        <element label="Same As Claimant" max_length="40" name="same_as_claimant" type="boolean"/>
+        <element label="Same As Policy Holder" max_length="40" name="same_as_policy_holder" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Self Contract" max_length="40" name="self_contract" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Sex" max_length="40" name="sex" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Sex Claimant" max_length="40" name="sex_claimant" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sex Insured" max_length="40" name="sex_insured" type="string"/>
+        <element label="Spouse Date of Birth" max_length="40" name="spouse_date_of_birth" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Spouse Name(Kaji)" max_length="40" name="spouse_name_kaji" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Spouse Name(Kana)" max_length="40" name="spouse_name_kana" type="string"/>
+        <element label="Submission Date" max_length="40" name="submission_date" type="glide_date"/>
+        <element label="Surrender Documents" max_length="40" name="surrender_documents" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Terms and Conditions Format" max_length="40" name="terms_and_conditions_format" type="choice">
+            <choice/>
+        </element>
+        <element label="Unpaid Fees" max_length="40" name="unpaid_fees" type="boolean"/>
+        <element attributes="omit_sys_original=true" label="1st Deposit  Premium" max_length="20" name="u_1st_deposit_premium" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="1st Payment Route" max_length="40" name="u_1st_payment_route" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="1st Premium bk. Transfer" max_length="40" name="u_1st_premium_bk_transfer" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Zip Code" max_length="40" name="zip_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Zip Code Insured" max_length="40" name="zip_code_insured" type="string"/>
+    </element>
+</database>

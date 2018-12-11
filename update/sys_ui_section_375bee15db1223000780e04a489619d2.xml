@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Claimant/Deputy claimant " section_id="375bee15db1223000780e04a489619d2" sys_domain="global" table="x_248743_claims_policy" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>same_as_policy_holder</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 05:20:48</sys_created_on>
+            <sys_id>4efb6fdddb9223000780e04a48961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Claimant/Deputy claimant " display_value="Claimant/Deputy claimant " name="x_248743_claims_policy" sys_domain="global" view="Default view">375bee15db1223000780e04a489619d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 05:20:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>claimant_type</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 05:20:48</sys_created_on>
+            <sys_id>cefb6fdddb9223000780e04a48961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Claimant/Deputy claimant " display_value="Claimant/Deputy claimant " name="x_248743_claims_policy" sys_domain="global" view="Default view">375bee15db1223000780e04a489619d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 05:20:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>claimant_name_kana</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 05:20:48</sys_created_on>
+            <sys_id>42fb6fdddb9223000780e04a48961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Claimant/Deputy claimant " display_value="Claimant/Deputy claimant " name="x_248743_claims_policy" sys_domain="global" view="Default view">375bee15db1223000780e04a489619d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 05:20:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>claimant_name_kanji</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 05:20:48</sys_created_on>
+            <sys_id>c2fb6fdddb9223000780e04a48961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Claimant/Deputy claimant " display_value="Claimant/Deputy claimant " name="x_248743_claims_policy" sys_domain="global" view="Default view">375bee15db1223000780e04a489619d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 05:20:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>claimant_date_of_birth</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 05:20:48</sys_created_on>
+            <sys_id>46fb6fdddb9223000780e04a48961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Claimant/Deputy claimant " display_value="Claimant/Deputy claimant " name="x_248743_claims_policy" sys_domain="global" view="Default view">375bee15db1223000780e04a489619d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 05:20:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sex_claimant</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 05:20:48</sys_created_on>
+            <sys_id>c6fb6fdddb9223000780e04a48961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Claimant/Deputy claimant " display_value="Claimant/Deputy claimant " name="x_248743_claims_policy" sys_domain="global" view="Default view">375bee15db1223000780e04a489619d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 05:20:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>relationship_claimant</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 05:20:48</sys_created_on>
+            <sys_id>4afb6fdddb9223000780e04a48961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Claimant/Deputy claimant " display_value="Claimant/Deputy claimant " name="x_248743_claims_policy" sys_domain="global" view="Default view">375bee15db1223000780e04a489619d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 05:20:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>percentage_of_receiving</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 05:20:48</sys_created_on>
+            <sys_id>cafb6fdddb9223000780e04a48961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Claimant/Deputy claimant " display_value="Claimant/Deputy claimant " name="x_248743_claims_policy" sys_domain="global" view="Default view">375bee15db1223000780e04a489619d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 05:20:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>designated_deputy_claimant_name</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 05:20:48</sys_created_on>
+            <sys_id>4efb6fdddb9223000780e04a48961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Claimant/Deputy claimant " display_value="Claimant/Deputy claimant " name="x_248743_claims_policy" sys_domain="global" view="Default view">375bee15db1223000780e04a489619d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 05:20:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>relationship_deputy_claimant</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 05:20:48</sys_created_on>
+            <sys_id>cefb6fdddb9223000780e04a48961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Claimant/Deputy claimant " display_value="Claimant/Deputy claimant " name="x_248743_claims_policy" sys_domain="global" view="Default view">375bee15db1223000780e04a489619d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 05:20:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>same_as_claimant</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 05:20:48</sys_created_on>
+            <sys_id>42fb6fdddb9223000780e04a48961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Claimant/Deputy claimant " display_value="Claimant/Deputy claimant " name="x_248743_claims_policy" sys_domain="global" view="Default view">375bee15db1223000780e04a489619d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 05:20:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Claimant/Deputy claimant </caption>
+            <header>false</header>
+            <name>x_248743_claims_policy</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-10 00:38:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>375bee15db1223000780e04a489619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Claimant/Deputy claimant </sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Claims" source="x_248743_claims">92453d9fdb3923000780e04a48961901</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Claims">92453d9fdb3923000780e04a48961901</sys_scope>
+            <sys_update_name>sys_ui_section_375bee15db1223000780e04a489619d2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-10 00:38:34</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
